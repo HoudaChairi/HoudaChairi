@@ -26,7 +26,7 @@
 
 ---
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p >
   <!-- Programming Languages -->
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HoudaChairi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HoudaChairi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoudaChairi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
