@@ -6,10 +6,6 @@
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50"> 
-</p>
-
-<p align="center">
   <a href="https://github.com/houda-ch">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
