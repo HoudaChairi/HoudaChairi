@@ -1,4 +1,7 @@
 
+![minimalism-digital-art-simple-background-cats-eyes-hd-wallpaper-preview](https://github.com/user-attachments/assets/d40c24a6-2f7e-436a-8758-df35865f4620)
+
+
 <h1 align="center">Hi 👋, I'm Houda Chairi</h1>
 
 <h3 align="center">A passionate software engineer from Morocco</h3>
