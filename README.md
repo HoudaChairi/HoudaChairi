@@ -60,8 +60,6 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
-![simple-background-quote-minimalism-text-wallpaper-preview](https://github.com/user-attachments/assets/2d22a16c-9daa-4097-b332-db2c1df4a106)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
