@@ -1,7 +1,9 @@
 <!--![minimalism-digital-art-simple-background-cats-eyes-hd-wallpaper-preview](https://github.com/user-attachments/assets/d40c24a6-2f7e-436a-8758-df35865f4620) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d24cf85b-3b87-4481-a8b4-09c265891503" alt="like">
+  <video autoplay muted>
+    <source src="https://github.com/user-attachments/assets/d24cf85b-3b87-4481-a8b4-09c265891503" type="video/mp4">
+  </video>
 </p>
 
 
