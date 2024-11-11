@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=I’m+currently+working+on+FT-transcendance;Learning+new+programming+languages;Ask+me+about+C%2FC%2B%2B%2C+Docker%2C+Django;Reach+me+at+chairihouda13%40gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Currently+working+on+Transcendance;Learning+new+programming+languages;Ask+me+about+C%2FC%2B%2B%2C+Docker%2C+Django;Reach+me+at+chairihouda13%40gmail.com" alt="Typing SVG" />
 </div>
 
 ---
