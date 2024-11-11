@@ -1,15 +1,11 @@
 
-
 <h1 align="center">Hi 👋, I'm Houda Chairi</h1>
 
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
 <p align="center">
-  <a href="https://github.com/houda-ch">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:chairihouda13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.linkedin.com/in/hchairi/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -23,12 +19,9 @@
 - 🔭 I’m currently working on **FT-transcendance**
 - 🌱 I’m currently learning **Programming languages**
 - 💬 Ask me about **C/C++, Docker, Django**
-- 📫 How to reach me **chairihouda13@gmail.com**
+- 📫 How to reach me: **chairihouda13@gmail.com**
 
 ---
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hchairi/) 
 
 ### 💻 Tech Stack:
 
