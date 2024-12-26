@@ -15,16 +15,22 @@
   </a>
 </p>
 
-<div align="center">
+<!--- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Currently+working+on+Transcendance;Learning+new+programming+languages;Ask+me+about+C%2FC%2B%2B%2C+Docker%2C+Django;Reach+me+at+chairihouda13%40gmail.com" alt="Typing SVG" />
+</div> --->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Currently+learning+a+new+language+🤫;Ask+me+about+C%2FC%2B%2B%2C+Python%2C+Docker%2C+Django;Reach+me+at+chairihouda13%40gmail.com" alt="Typing SVG" />
 </div>
 
+
 ---
+<!--- - 🔭 I’m currently working on **FT-transcendance** -->
+<!--- - 🌱 I’m currently learning **Programming languages** -->
 
 ## 👨‍💻 About Me:
-- 🔭 I’m currently working on **FT-transcendance**
-- 🌱 I’m currently learning **Programming languages**
-- 💬 Ask me about **C/C++, Docker, Django**
+- 🔭 I'm currently learning a new language 🤫
+- 💬 Ask me about **C/C++, Python, Docker, Django**
 - 📫 How to reach me: **chairihouda13@gmail.com**
 
 ---
