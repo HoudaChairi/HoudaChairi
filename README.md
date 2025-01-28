@@ -5,7 +5,6 @@
 </p> 
 
 
-
 <h1 align="center">Hi 👋, I'm Houda Chairi</h1>
 
 <h3 align="center">A passionate software engineer from Morocco</h3>
@@ -30,6 +29,7 @@
 <!--- - 🌱 I’m currently learning **Programming languages** -->
 
 ## 👨‍💻 About Me:
+- 🔭 I’m currently working on **Chatbot* -->
 - 🔭 I'm currently learning a new language 🤫
 - 💬 Ask me about **C/C++, Python, Docker, Django**
 - 📫 How to reach me: **chairihouda13@gmail.com**
