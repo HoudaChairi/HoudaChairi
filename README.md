@@ -1,13 +1,17 @@
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="https://github.com/user-attachments/assets/d24cf85b-3b87-4481-a8b4-09c265891503" alt="like"> -->
-<img src="https://github.com/user-attachments/assets/d40c24a6-2f7e-436a-8758-df35865f4620" alt="minimalism-digital-art-simple-background-cats-eyes-hd-wallpaper-preview">
-</p> 
+<!-- <img src="https://github.com/user-attachments/assets/d40c24a6-2f7e-436a-8758-df35865f4620" alt="minimalism-digital-art-simple-background-cats-eyes-hd-wallpaper-preview">
+</p> -->
+
+<div align="center">
+  <h1 style="font-family: 'Scheherazade', serif;">السلام عليكم ورحمة الله تعالى وبركاته</h1>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Houda Chairi</h1>
 
-<h3 align="center">A passionate software engineer from Morocco</h3>
+<h3 align="center">A passionate AI/ML Engineer from Morocco</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hchairi/">
@@ -41,15 +45,15 @@
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
 
   <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white&color=gray" alt="Django REST"/>
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+   <!-- <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/> -->
+  <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> -->
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
@@ -57,7 +61,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>  -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
