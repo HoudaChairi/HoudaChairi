@@ -1,8 +1,8 @@
 
-<!-- <p align="center"> -->
+ <p align="center">
   <!-- <img src="https://github.com/user-attachments/assets/d24cf85b-3b87-4481-a8b4-09c265891503" alt="like"> -->
-<!-- <img src="https://github.com/user-attachments/assets/d40c24a6-2f7e-436a-8758-df35865f4620" alt="minimalism-digital-art-simple-background-cats-eyes-hd-wallpaper-preview">
-</p> -->
+<img src="https://github.com/user-attachments/assets/d40c24a6-2f7e-436a-8758-df35865f4620" alt="minimalism-digital-art-simple-background-cats-eyes-hd-wallpaper-preview">
+</p>
 
 <div align="center">
   <h1 style="font-family: 'Scheherazade', serif;">السلام عليكم ورحمة الله تعالى وبركاته</h1>
