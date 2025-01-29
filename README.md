@@ -5,9 +5,8 @@
 </p>
 
 <div align="center">
-  <h1 style="font-family: 'Scheherazade', serif;">السلام عليكم ورحمة الله تعالى وبركاته</h1>
+  <h1 style="font-family: 'Amiri', serif;">السلام عليكم ورحمة الله تعالى وبركاته</h1>
 </div>
-
 
 <h1 align="center">Hi 👋, I'm Houda Chairi</h1>
 
@@ -24,7 +23,7 @@
 </div> --->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=I%E2%80%99m+currently+working+on+Chatbot+%F0%9F%94%AD;I%27m+currently+learning+a+new+language+%F0%9F%A4%AB;Ask+me+about+%2AC%2FC%2B%2B%2C+Python%2C+Docker%2C+Django%2A;How+to+reach+me%3A+chairihouda13%40gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Chatbot;%F0%9F%94%AD+I%27m+currently+learning+a+new+language+%F0%9F%A4%AB;%F0%9F%92%AC+Ask+me+about+C%2FC%2B%2B%2C+Python%2C+Docker%2C+Django;%F0%9F%93%AB+How+to+reach+me%3A+chairihouda13%40gmail.com" alt="Typing SVG" />
 </div>
 
 ---
