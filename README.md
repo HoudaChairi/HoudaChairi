@@ -10,7 +10,8 @@
 
 <h1 align="center">Hi 👋, I'm Houda Chairi</h1>
 
-<h3 align="center">A passionate AI/ML Engineer from Morocco</h3>
+<!-- <h3 align="center">A passionate AI/ML Engineer from Morocco</h3> -->
+<h3 align="center">A Motivated student at 1337 Coding School | Eager to learn and innovate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hchairi/">
