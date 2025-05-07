@@ -32,7 +32,7 @@
 <!--- - 🌱 I’m currently learning **Programming languages** -->
 
 ## 👨‍💻 About Me:
-- 🔭 I’m currently working on **Chatbot**
+- 🔭 I’m currently working on **New Project**
 - 🔭 I'm currently learning a new language 🤫
 - 💬 Ask me about **C/C++, Python, Docker, Django**
 - 📫 How to reach me: **chairihouda13@gmail.com**
