@@ -7,14 +7,16 @@
   <h1>Hi there, I'm Houda Chairi 👋</h1>
 </div>
 
-
 <div align="center">
   <p><em> 🎓 Student at 1337 Coding School | Morocco</em></p>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hchairi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="#">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=HoudaChairi.HoudaChairi&style=flat-square" alt="Visitors" style="height:22px; vertical-align: middle;" />
+  </a>
+  <a href="https://www.linkedin.com/in/hchairi/" style="margin-left: 6px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px; vertical-align: middle;" />
   </a>
 </div>
 
@@ -74,7 +76,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HoudaChairi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HoudaChairi&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
 
   <!-- <img src="https://github.com/user-attachments/assets/d24cf85b-3b87-4481-a8b4-09c265891503" alt="like"> -->
 <!-- <h3 align="center">A passionate AI/ML Engineer from Morocco</h3> -->
