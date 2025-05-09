@@ -1,40 +1,33 @@
 
- <p align="center">
-  <!-- <img src="https://github.com/user-attachments/assets/d24cf85b-3b87-4481-a8b4-09c265891503" alt="like"> -->
-<img src="https://github.com/user-attachments/assets/d40c24a6-2f7e-436a-8758-df35865f4620" alt="minimalism-digital-art-simple-background-cats-eyes-hd-wallpaper-preview">
-</p>
-
 <div align="center">
-  <h1 style="font-family: 'Amiri', serif;">السلام عليكم ورحمة الله تعالى وبركاته</h1>
+  <h3>السلام عليكم ورحمة الله تعالى وبركاته</h3>
 </div>
 
-<h1 align="center">Hi 👋, I'm Houda Chairi</h1>
+<div align="center">
+  <h1>Hi there, I'm Houda Chairi 👋</h1>
+</div>
 
-<!-- <h3 align="center">A passionate AI/ML Engineer from Morocco</h3> -->
-<h3 align="center">A Motivated student at 1337 Coding School | Eager to learn and innovate</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hchairi/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<!--- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Currently+working+on+Transcendance;Learning+new+programming+languages;Ask+me+about+C%2FC%2B%2B%2C+Docker%2C+Django;Reach+me+at+chairihouda13%40gmail.com" alt="Typing SVG" />
-</div> --->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Chatbot;%F0%9F%94%AD+I%27m+currently+learning+a+new+language+%F0%9F%A4%AB;%F0%9F%92%AC+Ask+me+about+C%2FC%2B%2B%2C+Python%2C+Docker%2C+Django;%F0%9F%93%AB+How+to+reach+me%3A+chairihouda13%40gmail.com" alt="Typing SVG" />
+  <p><em> 🎓 Student at 1337 Coding School | Morocco</em></p>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hchairi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Building+practical+tech+solutions;Always+learning+and+exploring;C%2FC%2B%2B%2C+Python%2C+Django%2C+Docker.." alt="Typing SVG" />
 </div>
 
 ---
-<!--- - 🔭 I’m currently working on **FT-transcendance** -->
-<!--- - 🌱 I’m currently learning **Programming languages** -->
 
-## 👨‍💻 About Me:
-- 🔭 I’m currently working on **New Project**
-- 🔭 I'm currently learning a new language 🤫
-- 💬 Ask me about **C/C++, Python, Docker, Django**
+## 👩‍💻 About Me:
+- 🎯 I enjoy building practical and meaningful tech solutions.
+- 🌱 I'm always learning and exploring new technologies.
+- 💬 Always open to collaboration and new ideas.
 - 📫 How to reach me: **chairihouda13@gmail.com**
 
 ---
@@ -82,3 +75,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HoudaChairi&icon=0&color=1)](https://visitcount.itsvg.in)
+
+  <!-- <img src="https://github.com/user-attachments/assets/d24cf85b-3b87-4481-a8b4-09c265891503" alt="like"> -->
+<!-- <h3 align="center">A passionate AI/ML Engineer from Morocco</h3> -->
