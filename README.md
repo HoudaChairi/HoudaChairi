@@ -47,7 +47,6 @@
 
   <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white&color=gray" alt="Django REST"/>
-   <!-- <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/> -->
   <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> -->
 
   <!-- Databases -->
@@ -69,15 +68,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HoudaChairi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoudaChairi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HoudaChairi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 
 
   <!-- <img src="https://github.com/user-attachments/assets/d24cf85b-3b87-4481-a8b4-09c265891503" alt="like"> -->
-<!-- <h3 align="center">A passionate AI/ML Engineer from Morocco</h3> -->
+<!-- <h3 align="center">A passionate AI/ML Engineer from Morocco</h3> 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
