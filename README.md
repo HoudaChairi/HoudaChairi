@@ -15,9 +15,6 @@
   <a href="#">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=HoudaChairi.HoudaChairi&style=flat-square" alt="Visitors" style="height:22px; vertical-align: middle;" />
   </a>
-  <a href="https://www.linkedin.com/in/hchairi/" style="margin-left: 6px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px; vertical-align: middle;" />
-  </a>
 </div>
 
 <div align="center">
@@ -26,7 +23,7 @@
 
 ---
 
-## 👩‍💻 About Me:
+### 👩‍💻 About Me:
 - 🎯 I enjoy building practical and meaningful tech solutions.
 - 🌱 I'm always learning and exploring new technologies.
 - 💬 Always open to collaboration and new ideas.
@@ -34,20 +31,16 @@
 
 ---
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <p >
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
 
   <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white&color=gray" alt="Django REST"/>
-  <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> -->
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
@@ -55,7 +48,6 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
 
   <!-- Tools -->
-  <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>  -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -63,18 +55,39 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HoudaChairi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HoudaChairi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoudaChairi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ### 📊 GitHub Stats: -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HoudaChairi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoudaChairi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="32%"/>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=HoudaChairi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="32%"/>
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=HoudaChairi&limit=5&theme=dark&combine_all_yearly_contributions=true" width="32%"/>
+
+</div>
 
 
   <!-- <img src="https://github.com/user-attachments/assets/d24cf85b-3b87-4481-a8b4-09c265891503" alt="like"> -->
 <!-- <h3 align="center">A passionate AI/ML Engineer from Morocco</h3> 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HoudaChairi&theme=dark&hide_border=false)<br/>
+
+ <a href="https://www.linkedin.com/in/hchairi/" style="margin-left: 6px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px; vertical-align: middle;" />
+  </a>
+
+  <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> -->
+   <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> -->
+  <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>  -->
+
+<!-- ### 📊 GitHub Stats: 
+![](https://github-readme-stats.vercel.app/api?username=HoudaChairi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoudaChairi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 -->
+<!-- ### 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=HoudaChairi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ -->
