@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&center=true&vCenter=true&width=500&lines=Software+Developer;Web+%26+Backend+Enthusiast;Always+learning+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+%26+Backend+Enthusiast;Always+learning+and+building" alt="Typing SVG" />
 </div>
 
 ---
@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/Bash-555555?style=flat&logo=gnu-bash&logoColor=4EAA25" height="20"/>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -71,7 +70,6 @@
 <div align="center">
   <em>“Always learning, always building.”</em>
 </div>
-
 
 
 
