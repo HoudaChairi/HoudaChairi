@@ -5,6 +5,10 @@
 </div>
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HoudaChairi.HoudaChairi&style=flat-square" alt="Profile views" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&center=true&vCenter=true&width=500&lines=Software+Developer;Web+%26+Backend+Enthusiast;Always+learning+and+building" alt="Typing SVG" />
 </div>
 
@@ -22,35 +26,36 @@
 
 <p>
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%20%2F%20C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" height="20"/>
+  <img src="https://img.shields.io/badge/HTML-555555?style=flat&logo=html5&logoColor=E34F26" height="20"/>
+  <img src="https://img.shields.io/badge/CSS-555555?style=flat&logo=css3&logoColor=1572B6" height="20"/>
+  <img src="https://img.shields.io/badge/JS-555555?style=flat&logo=javascript&logoColor=F7DF1E" height="20"/>
+  <img src="https://img.shields.io/badge/TS-555555?style=flat&logo=typescript&logoColor=3178C6" height="20"/>
 
   <br/>
 
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/React-555555?style=flat&logo=react&logoColor=61DAFB" height="20"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="20"/>
 
   <br/>
 
   <!-- Database -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-555555?style=flat&logo=postgresql&logoColor=316192" height="20"/>
 
   <br/>
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032" height="20"/>
+  <img src="https://img.shields.io/badge/GitHub-555555?style=flat&logo=github&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Docker-555555?style=flat&logo=docker&logoColor=0db7ed" height="20"/>
+  <img src="https://img.shields.io/badge/Linux-555555?style=flat&logo=linux&logoColor=FCC624" height="20"/>
+  <img src="https://img.shields.io/badge/Bash-555555?style=flat&logo=gnu-bash&logoColor=4EAA25" height="20"/>
 </p>
+
 
 ---
 
@@ -66,6 +71,7 @@
 <div align="center">
   <em>“Always learning, always building.”</em>
 </div>
+
 
 
 
