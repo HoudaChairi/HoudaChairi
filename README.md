@@ -45,6 +45,7 @@
 
   <!-- Database -->
   <img src="https://img.shields.io/badge/PostgreSQL-555555?style=flat&logo=postgresql&logoColor=316192" height="20"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="25"/>
 
   <br/>
 
@@ -56,16 +57,13 @@
   <img src="https://img.shields.io/badge/Bash-555555?style=flat&logo=gnu-bash&logoColor=4EAA25" height="20"/>
 </p>
 
----
-
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HoudaChairi&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoudaChairi&layout=compact&theme=dark&hide_border=true" width="48%" />
-</div>
-
----
+</div> -->
+--- 
 
 <div align="center">
   <em>“Always learning, always building.”</em>
